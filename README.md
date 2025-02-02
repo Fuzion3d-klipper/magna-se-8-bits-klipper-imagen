@@ -20,7 +20,7 @@
 
 ### 1️⃣ ¿Qué necesitas?
 
-- 💾 **Tarjeta microSD** (mínimo 8GB, recomendado 16GB+).
+- 💾 **Tarjeta microSD** (mínimo 8GB).
 - 💻 **Software para grabar imágenes** ([Raspberry Pi Imager](https://www.raspberrypi.com/software/) o [balenaEtcher](https://www.balena.io/etcher/)).
 - ⚙️ **Makerbase PI lista para la acción.**
 
@@ -37,7 +37,7 @@
 
 🔹 **Ejemplo de grabación con balenaEtcher:**
 
-![Instalación con Etcher](https://www.balena.io/blog/content/images/2021/03/etcher.gif)
+[Instalación con Etcher](https://www.balena.io/blog/content/images/2021/03/etcher.gif)
 
 ### 3️⃣ Arranca y comienza la magia
 
