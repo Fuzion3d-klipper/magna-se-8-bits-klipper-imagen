@@ -77,7 +77,7 @@ Para instalar el firmware `firmware.hex` en la Hellbot Magna mediante **Arduload
 - 📜 **Archivo de configuración `printer.cfg` ya incluido.**
 - 🛠️ Lo encuentras en:
   ```
-  /home/pi/klipper_config/printer.cfg
+  /home/mks/klipper_config/printer.cfg
   ```
 - Si quieres personalizarlo, edítalo directamente desde la interfaz web de Klipper.
 
