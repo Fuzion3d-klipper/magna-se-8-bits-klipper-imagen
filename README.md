@@ -22,7 +22,7 @@
 
 - 💾 **Tarjeta microSD** (mínimo 8GB).
 - 💻 **Software para grabar imágenes** En mi caso use [Win32diskimager](https://win32diskimager.org/) pero puedes usar  ([Raspberry Pi Imager](https://www.raspberrypi.com/software/) o [balenaEtcher](https://www.balena.io/etcher/)).
-- ⚙️ **Makerbase PI lista para la acción.**
+- ⚙️ **Makerbase PI lista para la acción.** Recomiendo MakerbasePI de [**Techforge**](https://techforge.com.ar/)
 
 ### 2️⃣ Graba la imagen como un pro
 
