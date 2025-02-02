@@ -57,10 +57,10 @@
 
 ### 🔹 ¿Puedo usar esta imagen en otra placa Raspberry?
 Compatibilidad con otras Raspberry Pi
-Raspberry Pi CM4 → Totalmente compatible, ya que la MKS Pi usa este módulo.
-Raspberry Pi 4B → Parcialmente compatible, dependiendo de los controladores y la configuración del kernel.
-Raspberry Pi 3B / 3B+ → Poco probable, ya que usan una arquitectura diferente (Broadcom BCM2837 vs. BCM2711 en CM4).
-Raspberry Pi 2B, Zero, Zero 2 W, 1B+ → No compatible, por diferencias en hardware y arquitectura.
+##Raspberry Pi CM4 → Totalmente compatible, ya que la MKS Pi usa este módulo.
+##Raspberry Pi 4B → Parcialmente compatible, dependiendo de los controladores y la configuración del kernel.
+##Raspberry Pi 3B / 3B+ → Poco probable, ya que usan una arquitectura diferente (Broadcom BCM2837 vs. BCM2711 en CM4).
+##Raspberry Pi 2B, Zero, Zero 2 W, 1B+ → No compatible, por diferencias en hardware y arquitectura.
 
 ### 🔹 ¿Cómo accedo a la interfaz de Klipper?
 🖥️ Abre un navegador y escribe la IP de tu Makerbase PI. (Si no sabes la IP, revisa la pantalla de la MakerbasePi.)
