@@ -35,9 +35,9 @@
 2. Usa tu software favorito para grabarla en la microSD.
 3. Inserta la microSD en la Makerbase PI de [**Techforge**](https://techforge.com.ar/)
 
-🔹 **Ejemplo de grabación con balenaEtcher:**
+🔹 **Ejemplo de grabación con win32diskimager:**
 
-[Instalación con Etcher](https://www.balena.io/blog/content/images/2021/03/etcher.gif)
+[Video Tutorial](https://www.youtube.com/watch?v=Ml14aN05Bwg)
 
 ### 3️⃣ Arranca y comienza la magia
 
@@ -79,7 +79,7 @@ Para instalar el firmware `firmware.hex` en la Hellbot Magna mediante **Arduload
   ```
   /home/mks/klipper_config/printer.cfg
   ```
-- Si quieres personalizarlo, edítalo directamente desde la interfaz web de Klipper.
+- Si quieres personalizarlo, edítalo directamente desde la interfaz web de Klipper, pero evita modificar la ruta MCU.
 
 ---
 
@@ -108,12 +108,19 @@ cd ~/klipper
 
 ---
 
-## 📷 Galería de Instalación 🖼️
-_Agrega imágenes del proceso aquí para que otros vean lo sencillo que es._
 
 ![Ejemplo de Klipper funcionando](https://www.klipper3d.org/_images/Fluidd_UI.png)
 
 ---
+
+## 🌐 Conéctate con Fuzion3D
+¡Síguenos en redes sociales para más contenido sobre impresión 3D, tutoriales y novedades!
+
+🔹 **TikTok:** [@fuzion3d](https://www.tiktok.com/@fuzion3d) 🎥
+🔹 **Instagram:** [@fuzion3dcrea](https://www.instagram.com/fuzion3dcrea) 📸
+🔹 **YouTube:** [@fuzion3dcrea](https://youtube.com/@fuzion3dcrea) 🎬
+
+¡Únete a la comunidad y comparte tus creaciones con nosotros! 🚀🔥
 
 ## 📜 Licencia y Créditos
 Este proyecto es de código abierto bajo la licencia **MIT**. ¡Modifícalo, mejóralo y compártelo!
