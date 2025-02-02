@@ -54,10 +54,10 @@
 Para instalar el firmware `firmware.hex` en la Hellbot Magna mediante **Arduloader** desde una PC con Windows, sigue estos pasos:
 
 ### 1️⃣ Requisitos
-- 📂 **Archivo `firmware.hex`** (descargable desde el repositorio).
+- 📂 **Archivo `firmware.hex`** (descargable desde el repositorio [Aqui](https://github.com/Fuzion3d-klipper/magna-se-8-bits-klipper-imagen/blob/main/firmware.hex).
 - 💻 **PC con Windows**.
 - 🔌 **Cable USB** para conectar la impresora a la PC.
-- 🛠️ **Arduloader** instalado en la PC (descargable desde su [página oficial](https://example.com)).
+- 🛠️ **Arduloader** instalado en la PC (descargable desde el repositorio [ArduLoader](https://example.com)).
 
 ### 2️⃣ Instalación del Firmware
 1. Conecta la impresora a la PC mediante USB.
