@@ -47,6 +47,31 @@
 
 ---
 
+---
+
+## 🔧 Instalación del Firmware en la Impresora
+
+Para instalar el firmware `firmware.hex` en la Hellbot Magna mediante **Arduloader** desde una PC con Windows, sigue estos pasos:
+
+### 1️⃣ Requisitos
+- 📂 **Archivo `firmware.hex`** (descargable desde el repositorio).
+- 💻 **PC con Windows**.
+- 🔌 **Cable USB** para conectar la impresora a la PC.
+- 🛠️ **Arduloader** instalado en la PC (descargable desde su [página oficial](https://example.com)).
+
+### 2️⃣ Instalación del Firmware
+1. Conecta la impresora a la PC mediante USB.
+2. Abre **Arduloader** en Windows.
+3. Utiliza el perfil "ATMega1284p using optiboot"
+4. Selecciona el puerto correcto en la interfaz de Arduloader.
+5. Carga el archivo `firmware.hex` desde la ubicación donde lo descargaste.
+6. Pulsa **Start** y espera a que finalice la carga del firmware.
+7. Una vez completado, reinicia la impresora.
+
+✅ **¡Listo! Ahora tu impresora Hellbot Magna tiene el firmware actualizado y lista para imprimir con Klipper.**
+
+---
+
 ## 📁 Configuración y Archivos: ¡Todo en su lugar! 📂
 
 - 📜 **Archivo de configuración `printer.cfg` ya incluido.**
