@@ -27,8 +27,11 @@
 ### 2️⃣ Graba la imagen como un pro
 
 1. Descarga la imagen desde Mediafire (¡no te preocupes, es ligera!).
-  .- **Descarga Primera parte**](https://www.mediafire.com/file/1rhz5gqk1686p34/Klipper_Hellbot_Magna_SE_8bits_ByFuzion3d.part1.rar/file)
+
+  .- [**Descarga Primera parte**](https://www.mediafire.com/file/1rhz5gqk1686p34/Klipper_Hellbot_Magna_SE_8bits_ByFuzion3d.part1.rar/file)
+
   .- [**Descraga segunda parte**](https://www.mediafire.com/file/edbu3pz20ouse0w/Klipper_Hellbot_Magna_SE_8bits_ByFuzion3d.part2.rar/file)
+
 2. Usa tu software favorito para grabarla en la microSD.
 3. Inserta la microSD en la Makerbase PI de [**Techforge**](https://techforge.com.ar/)
 
