@@ -1,6 +1,6 @@
 # 🚀 Armbian Klipper para Hellbot Magna - ¡Plug & Print!
 
-![Logo de Armbian]([https://www.armbian.com/wp-content/uploads/2020/06/armbian-logo-small.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.armbian.com%2Ftopic%2F26765-armbian-logo%2F&psig=AOvVaw1Ibc7Cg_pLHfrlDIzrGeq0&ust=1738586127589000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi145eApYsDFQAAAAAdAAAAABAE))
+![Logo de Armbian](imagenes/armbianlogo.png)
 
 ¡Bienvenido a la solución definitiva para correr **Klipper** en tu **Hellbot Magna** sin dolores de cabeza! Esta imagen de **Armbian** viene **preconfigurada y lista para funcionar** en tu **Makerbase PI** [**Techforge**](https://techforge.com.ar/). Olvídate de configuraciones tediosas, solo graba, enciende y ¡a imprimir! 🎉
 
