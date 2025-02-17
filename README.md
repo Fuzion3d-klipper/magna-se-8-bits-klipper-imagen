@@ -113,12 +113,19 @@ cd ~/klipper
 
 ---
 
-## 🌐 Conéctate con Fuzion3D
-¡Síguenos en redes sociales para más contenido sobre impresión 3D, tutoriales y novedades!
+## 🔗 Recursos y Créditos
+- 📄 [Documentación oficial de Klipper](https://www.klipper3d.org/)
+- 💬 Soporte en [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
 
-🔹 **TikTok:** [@fuzion3d](https://www.tiktok.com/@fuzion3d) 🎥
-🔹 **Instagram:** [@fuzion3dcrea](https://www.instagram.com/fuzion3dcrea) 📸
-🔹 **YouTube:** [@fuzion3dcrea](https://youtube.com/@fuzion3dcrea) 🎬
+## 📢 Conéctate conmigo 📢
+
+- 🔗 **TikTok:** [Fuzion3D](https://www.tiktok.com/@fuzion3d)
+- 📸 **Instagram:** [Fuzion3D Crea](https://www.instagram.com/fuzion3dcrea)
+- 🎥 **YouTube:** [Fuzion3D Crea](https://youtube.com/@fuzion3dcrea)
+- 💬 **WhatsApp:** [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+<a href="https://www.buymeacoffee.com/fuzion3d"><img src="https://img.buymeacoffee.com/button-api/?text=Apoya al creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 
 ¡Únete a la comunidad y comparte tus creaciones con nosotros! 🚀🔥
 
