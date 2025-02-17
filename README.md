@@ -109,8 +109,6 @@ cd ~/klipper
 ---
 
 
-![Ejemplo de Klipper funcionando](https://www.klipper3d.org/_images/Fluidd_UI.png)
-
 ---
 
 ## 🔗 Recursos y Créditos
